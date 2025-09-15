@@ -60,16 +60,4 @@ The dataset contains customer information such as:
 
 ---
 
-## 🎥 Demo & Files  
-- [Download Excel file](./bike_purchase.xlsx)  
-- [Watch Demo Video](./demo.mp4)  
-- Dashboard Preview:  
-  ![Dashboard Screenshot](./dashboard_screenshot.png)  
-
----
-
-## 🚀 Future Scope  
-This project demonstrates how **Excel** can turn raw data into actionable insights. As a next step, I plan to extend the analysis using **Python & AI** for predictive modeling and advanced visualization.  
-
----
 
